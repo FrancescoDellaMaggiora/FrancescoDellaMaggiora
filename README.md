@@ -15,7 +15,6 @@ I'm an Italian Computer Engineering student passionate about software developmen
 ---
 
 ### 🛠️ Tech Stack & Tools
-### 🛠️ Tech Stack & Tools
 
 **Software Development:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
