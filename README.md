@@ -46,14 +46,6 @@ I'm an Italian Computer Engineering student passionate about software developmen
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancescoDellaMaggiora&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoDellaMaggiora&layout=compact&theme=dracula"/>
-</div>
-
----
 
 ### 📫 Let's Connect!
 
