@@ -32,10 +32,11 @@ I'm an Italian Computer Engineering student passionate about software developmen
 ![Neo4J](https://img.shields.io/badge/Neo4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
-**Hardware & FPGA Design:**
+**Hardware, FPGA Design and Embedded Systems:**
 ![VHDL](https://img.shields.io/badge/VHDL-005C8A?style=for-the-badge&logo=v&logoColor=white)
-
+![Contiki-NG](https://img.shields.io/badge/Contiki--NG-3A6EA5?style=for-the-badge&logoColor=white)
 
 **Tools & Workflows:**
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -44,6 +45,7 @@ I'm an Italian Computer Engineering student passionate about software developmen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ---
 
 
