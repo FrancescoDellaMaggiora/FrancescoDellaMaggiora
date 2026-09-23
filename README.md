@@ -35,8 +35,8 @@ I'm an Italian Computer Engineering student passionate about software developmen
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 **Hardware, FPGA Design and Embedded Systems:**
-![VHDL](https://img.shields.io/badge/VHDL-005C8A?style=for-the-badge&logo=v&logoColor=white)
 ![Contiki-NG](https://img.shields.io/badge/Contiki--NG-3A6EA5?style=for-the-badge&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-005C8A?style=for-the-badge&logo=v&logoColor=white)
 
 **Tools & Workflows:**
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
