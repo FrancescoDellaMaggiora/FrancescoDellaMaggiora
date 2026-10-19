@@ -55,10 +55,10 @@ I'm an Italian Computer Engineering student passionate about software developmen
   <a href="mailto:francescodm200218@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/11943597/francesco-della-maggiora" target="_blank">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
   <a href="https://www.instagram.com/frank.della/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/11943597/francesco-della-maggiora" target="_blank">
+    <img alt="StackOverflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
   </p>
